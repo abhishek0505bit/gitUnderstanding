@@ -20,3 +20,5 @@ Hy I have added this line.. inn master want to see the scenario for merge
 okay
 this commit I am adding in the new branch.. 
 now I am checking to do some changes such that.. I can go ahead of main
+
+These are the changes present in new branch which I want in the branch in cherry-pick branch.. 
